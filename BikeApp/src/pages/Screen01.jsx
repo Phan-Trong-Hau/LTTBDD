@@ -13,7 +13,7 @@ export default function Screen01({ navigation }) {
         style={{
           marginTop: 30,
           width: "90%",
-          backgroundColor: "purple",
+          backgroundColor: "rgba(233, 65, 65, 0.1)",
           alignContent: "center",
           padding: 20,
           borderRadius: 30,
