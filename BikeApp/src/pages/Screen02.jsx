@@ -78,7 +78,7 @@ export default function Screen02({ navigation }) {
               }}
             >
               <View style={{ marginTop: 5, padding: 10, flexDirection: "row" }}>
-                <IconAntDesign name="heart" size={20} color="#ccc" />
+                <IconAntDesign name="hearto" size={20} color="#ccc" />
                 <Image source={{ uri: item.image }} style={{ width: 135, height: 127 }} />
               </View>
               <Text style={{ marginTop: 5, color: "#000", fontSize: 15, fontWeight: "bold" }}>
